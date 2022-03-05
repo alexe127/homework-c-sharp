@@ -9,3 +9,10 @@ else
 {
     Console.WriteLine("введите трёхзначное число");
 }
+
+
+// Console.WriteLine("Введите трёхзначное число");
+// int num = new Random() .Next(100,1000);
+//    Console.WriteLine(num);
+//
+//    Console.WriteLine("вторая цифра = "+ num / 10 % 10);
